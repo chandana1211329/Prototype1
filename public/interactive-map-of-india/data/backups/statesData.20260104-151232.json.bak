@@ -1,0 +1,88 @@
+{
+    "Jammu and Kashmir": {
+        "tourism": [
+            "Gulmarg",
+            "Pahalgam",
+            "Sonamarg",
+            "Dal Lake"
+        ],
+        "food": "Kashmiri cuisine (wazwan), rogan josh, gushtaba, kahwa (tea)",
+        "culture": "Rich Sufi and Kashmiri Pandit traditions; handicrafts like pashmina and papier-mâché.",
+        "festivals": [
+            "Amarnath Yatra",
+            "Tulip Festival",
+            "Navroz"
+        ]
+    },
+    "West Bengal": {
+        "tourism": [
+            "Kolkata",
+            "Darjeeling",
+            "Sundarbans",
+            "Shantiniketan"
+        ],
+        "food": "Rice and fish based cuisine; sweets like rasgulla and sandesh.",
+        "culture": "Bengali literature, music (Rabindra Sangeet), and Durga Puja prominence.",
+        "festivals": [
+            "Durga Puja",
+            "Poila Boishakh",
+            "Kali Puja"
+        ]
+    },
+    "Uttarakhand": {
+        "tourism": [
+            "Mussoorie",
+            "Nainital",
+            "Valley of Flowers",
+            "Haridwar"
+        ],
+        "food": "Traditional Garhwali and Kumaoni dishes like kafuli and baadi.",
+        "culture": "Hindu pilgrimage traditions and folk music\/dance (e.g., Jagar).",
+        "festivals": [
+            "Kumbh Mela (Haridwar)",
+            "Nanda Devi Mela"
+        ]
+    },
+    "Uttar Pradesh": {
+        "tourism": [
+            "Taj Mahal (Agra)",
+            "Varanasi Ghats",
+            "Lucknow architecture"
+        ],
+        "food": "Awadhi cuisine: biryani, kebabs, shahi tukda.",
+        "culture": "Classical music and dance heritage, rich Mughal-influenced architecture.",
+        "festivals": [
+            "Kumbh Mela (Prayagraj)",
+            "Diwali",
+            "Holi"
+        ]
+    },
+    "Andhra Pradesh": {
+        "overview": "Andhra Pradesh is a state in southern India known for its rich history, temples, and long coastline on the Bay of Bengal.",
+        "districts": [
+            "Visakhapatnam",
+            "Vijayawada",
+            "Tirupati",
+            "Guntur"
+        ],
+        "tourism": [
+            "Tirupati Temple",
+            "Araku Valley",
+            "Beaches of Visakhapatnam",
+            "Lepakshi"
+        ],
+        "food": "Rice-based cuisine; famous for spicy curries like Pulihora and seafood specialties. and dosas.",
+        "culture": "Classical Kuchipudi dance, Telugu literature and film culture.",
+        "festivals": [
+            "Ugadi",
+            "Sankranti",
+            "Dussehra"
+        ],
+        "history": "Rulers included Satavahanas, Chalukyas, and later the Vijayanagara Empire; rich temple architecture.",
+        "key_stats": {
+            "Capital": "Amaravati",
+            "Population": "~50 million",
+            "Area": "160,205 km"
+        }
+    }
+}

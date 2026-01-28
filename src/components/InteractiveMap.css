@@ -1,0 +1,88 @@
+/* Interactive Map CSS - Based on original map-style.css */
+.map-wrapper {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  min-width: 320px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; 
+}
+
+.map-base svg {
+  max-height: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  -webkit-filter: drop-shadow( 1px 1px 2px rgba(0, 0, 0, 0.2) ); 
+    filter: drop-shadow( 1px 1px 2px rgba(0, 0, 0, 0.2) );
+}
+
+.map-base svg path {
+  fill: #e8f4f8 !important;
+  stroke: #2c3e50 !important;
+  stroke-width: 2 !important;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.map-base svg path:hover {
+  fill: #d1e7dd !important;
+  stroke: #1a252f !important;
+  stroke-width: 3 !important;
+}
+
+.map-base svg path.selected {
+  fill: #b8d4d8 !important;
+  stroke: #1a252f !important;
+  stroke-width: 3 !important;
+}
+
+/* Tooltip styles */
+.map-tooltip {
+  font: 14px/16px Trebuchet MS, Helvetica, Arial, sans-serif;
+  display: none;
+  max-width: 40%;
+  padding: 8px 12px;
+  border: 1px solid #404040;
+  background-color: rgba(255, 255, 255, 0.95);
+  color: #404040;
+  z-index: 1000;
+  position: absolute;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.map-tooltip.show {
+  display: block;
+}
+
+/* Responsive design */
+@media screen and (max-width: 480px){
+  .map-wrapper {
+    margin: 10px auto;
+    padding: 10px;
+  }
+  .map-base svg {
+    height: 400px !important;
+  }
+}
+
+@media screen and (max-width: 768px) and (min-width: 481px) {
+  .map-base svg {
+    height: 500px !important;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .map-base svg {
+    height: 650px !important;
+  }
+}

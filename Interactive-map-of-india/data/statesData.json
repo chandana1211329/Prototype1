@@ -1,0 +1,449 @@
+{
+  "Andhra Pradesh": {
+    "overview": "Andhra Pradesh is a southern Indian state known for its ancient temples, long coastline, and rich Telugu culture.",
+    "districts": ["Visakhapatnam", "Vijayawada", "Guntur", "Nellore", "Tirupati"],
+    "tourism": ["Tirupati", "Araku Valley", "Vizag Beaches", "Lepakshi"],
+    "food": "Pulihora, Gongura, seafood, spicy curries",
+    "culture": "Kuchipudi dance, Telugu literature, temple traditions",
+    "festivals": ["Ugadi", "Sankranti", "Brahmotsavam"],
+    "history": "Ruled by Satavahanas, Chalukyas, Vijayanagara Empire",
+    "key_stats": {
+      "Capital": "Amaravati",
+      "Population": "~50 million",
+      "Area": "160,205 km²",
+      "Official Language": "Telugu"
+    }
+  },
+
+  "Arunachal Pradesh": {
+    "overview": "A northeastern Himalayan state famous for tribal culture and natural beauty.",
+    "districts": ["Itanagar", "Tawang", "Ziro", "Pasighat"],
+    "tourism": ["Tawang Monastery", "Ziro Valley", "Sela Pass"],
+    "food": "Rice, bamboo shoot dishes, smoked meat",
+    "culture": "Tribal traditions of Monpa, Apatani, Adi",
+    "festivals": ["Losar", "Nyokum", "Solung"],
+    "history": "Ancient tribal region; statehood in 1987",
+    "key_stats": {
+      "Capital": "Itanagar",
+      "Population": "~1.6 million",
+      "Area": "83,743 km²",
+      "Official Language": "English"
+    }
+  },
+
+  "Assam": {
+    "overview": "Known for tea gardens, wildlife, and the Brahmaputra River.",
+    "districts": ["Guwahati", "Jorhat", "Dibrugarh", "Silchar"],
+    "tourism": ["Kaziranga", "Majuli", "Kamakhya Temple"],
+    "food": "Rice, fish curry, pitha",
+    "culture": "Bihu dance, silk weaving",
+    "festivals": ["Bihu", "Ambubachi Mela"],
+    "history": "Ruled by Ahom dynasty for 600 years",
+    "key_stats": {
+      "Capital": "Dispur",
+      "Population": "~35 million",
+      "Area": "78,438 km²",
+      "Official Language": "Assamese"
+    }
+  },
+
+  "Bihar": {
+    "overview": "Cradle of ancient Indian civilization and Buddhism.",
+    "districts": ["Patna", "Gaya", "Bhagalpur", "Muzaffarpur"],
+    "tourism": ["Bodh Gaya", "Nalanda", "Rajgir"],
+    "food": "Litti Chokha, Sattu dishes",
+    "culture": "Folk music, Madhubani art",
+    "festivals": ["Chhath Puja"],
+    "history": "Maurya and Gupta Empires originated here",
+    "key_stats": {
+      "Capital": "Patna",
+      "Population": "~125 million",
+      "Area": "94,163 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Chhattisgarh": {
+    "overview": "A central Indian state rich in forests and tribal heritage.",
+    "districts": ["Raipur", "Bilaspur", "Durg"],
+    "tourism": ["Chitrakote Falls", "Barnawapara Sanctuary"],
+    "food": "Rice-based tribal cuisine",
+    "culture": "Tribal dances like Panthi",
+    "festivals": ["Bastar Dussehra"],
+    "history": "Part of Dakshin Kosala",
+    "key_stats": {
+      "Capital": "Raipur",
+      "Population": "~30 million",
+      "Area": "135,192 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Goa": {
+    "overview": "India’s smallest state, famous for beaches and Portuguese heritage.",
+    "districts": ["Panaji", "Margao", "Vasco"],
+    "tourism": ["Baga Beach", "Old Goa Churches"],
+    "food": "Seafood, vindaloo, bebinca",
+    "culture": "Portuguese-influenced music and dance",
+    "festivals": ["Carnival", "Christmas"],
+    "history": "Portuguese rule until 1961",
+    "key_stats": {
+      "Capital": "Panaji",
+      "Population": "~1.5 million",
+      "Area": "3,702 km²",
+      "Official Language": "Konkani"
+    }
+  },
+
+  "Gujarat": {
+    "overview": "A western state known for business, heritage, and festivals.",
+    "districts": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+    "tourism": ["Rann of Kutch", "Somnath", "Gir Forest"],
+    "food": "Dhokla, Thepla, Undhiyu",
+    "culture": "Garba dance, textile crafts",
+    "festivals": ["Navratri", "Uttarayan"],
+    "history": "Indus Valley sites; birthplace of Mahatma Gandhi",
+    "key_stats": {
+      "Capital": "Gandhinagar",
+      "Population": "~64 million",
+      "Area": "196,244 km²",
+      "Official Language": "Gujarati"
+    }
+  },
+
+  "Haryana": {
+    "overview": "A northern state known for agriculture and sports culture.",
+    "districts": ["Gurugram", "Faridabad", "Panipat"],
+    "tourism": ["Kurukshetra", "Sultanpur Bird Sanctuary"],
+    "food": "Makki roti, lassi",
+    "culture": "Wrestling, folk dances",
+    "festivals": ["Teej", "Baisakhi"],
+    "history": "Land of Mahabharata war",
+    "key_stats": {
+      "Capital": "Chandigarh",
+      "Population": "~29 million",
+      "Area": "44,212 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Himachal Pradesh": {
+    "overview": "A Himalayan state famous for hill stations and snow peaks.",
+    "districts": ["Shimla", "Manali", "Dharamshala"],
+    "tourism": ["Shimla", "Manali", "Spiti Valley"],
+    "food": "Dham cuisine",
+    "culture": "Mountain folk traditions",
+    "festivals": ["Kullu Dussehra"],
+    "history": "Former hill kingdoms",
+    "key_stats": {
+      "Capital": "Shimla",
+      "Population": "~7 million",
+      "Area": "55,673 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Jharkhand": {
+    "overview": "Mineral-rich eastern Indian state with tribal culture.",
+    "districts": ["Ranchi", "Jamshedpur", "Dhanbad"],
+    "tourism": ["Hundru Falls", "Betla Park"],
+    "food": "Rice, tribal dishes",
+    "culture": "Santhal traditions",
+    "festivals": ["Sarhul"],
+    "history": "Carved from Bihar in 2000",
+    "key_stats": {
+      "Capital": "Ranchi",
+      "Population": "~38 million",
+      "Area": "79,716 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Karnataka": {
+    "overview": "A technology and heritage-rich southern state.",
+    "districts": ["Bengaluru", "Mysuru", "Mangaluru"],
+    "tourism": ["Hampi", "Mysore Palace", "Coorg"],
+    "food": "Bisi Bele Bath, Dosa",
+    "culture": "Yakshagana, Kannada literature",
+    "festivals": ["Mysuru Dasara"],
+    "history": "Hoysala and Vijayanagara empires",
+    "key_stats": {
+      "Capital": "Bengaluru",
+      "Population": "~61 million",
+      "Area": "191,791 km²",
+      "Official Language": "Kannada"
+    }
+  },
+
+  "Kerala": {
+    "overview": "A coastal state known for backwaters and Ayurveda.",
+    "districts": ["Thiruvananthapuram", "Kochi", "Kozhikode"],
+    "tourism": ["Alleppey", "Munnar", "Varkala"],
+    "food": "Sadya, seafood",
+    "culture": "Kathakali, Mohiniyattam",
+    "festivals": ["Onam", "Vishu"],
+    "history": "Ancient spice trade center",
+    "key_stats": {
+      "Capital": "Thiruvananthapuram",
+      "Population": "~35 million",
+      "Area": "38,852 km²",
+      "Official Language": "Malayalam"
+    }
+  },
+
+  "Madhya Pradesh": {
+    "overview": "The heart of India, rich in forests and monuments.",
+    "districts": ["Bhopal", "Indore", "Gwalior"],
+    "tourism": ["Khajuraho", "Sanchi", "Kanha"],
+    "food": "Poha, Bhutte ka kees",
+    "culture": "Tribal and folk arts",
+    "festivals": ["Khajuraho Dance Festival"],
+    "history": "Gupta and Paramara dynasties",
+    "key_stats": {
+      "Capital": "Bhopal",
+      "Population": "~85 million",
+      "Area": "308,252 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Maharashtra": {
+    "overview": "India’s economic powerhouse and cultural hub.",
+    "districts": ["Mumbai", "Pune", "Nagpur"],
+    "tourism": ["Ajanta", "Ellora", "Gateway of India"],
+    "food": "Vada Pav, Misal",
+    "culture": "Lavani, Marathi theatre",
+    "festivals": ["Ganesh Chaturthi"],
+    "history": "Maratha Empire under Shivaji",
+    "key_stats": {
+      "Capital": "Mumbai",
+      "Population": "~114 million",
+      "Area": "307,713 km²",
+      "Official Language": "Marathi"
+    }
+  },
+
+  "Manipur": {
+    "overview": "A northeastern state known for dance and Loktak Lake.",
+    "districts": ["Imphal", "Thoubal"],
+    "tourism": ["Loktak Lake"],
+    "food": "Rice, fermented fish",
+    "culture": "Manipuri dance",
+    "festivals": ["Yaoshang"],
+    "history": "Ancient kingdom",
+    "key_stats": {
+      "Capital": "Imphal",
+      "Population": "~3 million",
+      "Area": "22,327 km²",
+      "Official Language": "Meitei"
+    }
+  },
+
+  "Meghalaya": {
+    "overview": "Known as the abode of clouds.",
+    "districts": ["Shillong", "Cherrapunji"],
+    "tourism": ["Living Root Bridges"],
+    "food": "Rice, pork",
+    "culture": "Khasi and Garo tribes",
+    "festivals": ["Wangala"],
+    "history": "Tribal heritage",
+    "key_stats": {
+      "Capital": "Shillong",
+      "Population": "~3 million",
+      "Area": "22,429 km²",
+      "Official Language": "English"
+    }
+  },
+
+  "Mizoram": {
+    "overview": "A hilly northeastern state with lush greenery.",
+    "districts": ["Aizawl", "Lunglei"],
+    "tourism": ["Vantawng Falls"],
+    "food": "Bamboo shoot dishes",
+    "culture": "Mizo traditions",
+    "festivals": ["Chapchar Kut"],
+    "history": "Former Lushai Hills",
+    "key_stats": {
+      "Capital": "Aizawl",
+      "Population": "~1.2 million",
+      "Area": "21,081 km²",
+      "Official Language": "Mizo"
+    }
+  },
+
+  "Nagaland": {
+    "overview": "Known for tribal heritage and festivals.",
+    "districts": ["Kohima", "Dimapur"],
+    "tourism": ["Dzukou Valley"],
+    "food": "Smoked meat",
+    "culture": "Naga tribes",
+    "festivals": ["Hornbill Festival"],
+    "history": "Tribal state formed in 1963",
+    "key_stats": {
+      "Capital": "Kohima",
+      "Population": "~2.3 million",
+      "Area": "16,579 km²",
+      "Official Language": "English"
+    }
+  },
+
+  "Odisha": {
+    "overview": "Known for ancient temples and coastline.",
+    "districts": ["Bhubaneswar", "Cuttack", "Puri"],
+    "tourism": ["Jagannath Temple", "Konark"],
+    "food": "Dalma, Chuda",
+    "culture": "Odissi dance",
+    "festivals": ["Rath Yatra"],
+    "history": "Kalinga kingdom",
+    "key_stats": {
+      "Capital": "Bhubaneswar",
+      "Population": "~47 million",
+      "Area": "155,707 km²",
+      "Official Language": "Odia"
+    }
+  },
+
+  "Punjab": {
+    "overview": "A northern state known for agriculture and Sikh heritage.",
+    "districts": ["Amritsar", "Ludhiana"],
+    "tourism": ["Golden Temple"],
+    "food": "Butter chicken, lassi",
+    "culture": "Bhangra",
+    "festivals": ["Baisakhi"],
+    "history": "Land of Sikh Gurus",
+    "key_stats": {
+      "Capital": "Chandigarh",
+      "Population": "~30 million",
+      "Area": "50,362 km²",
+      "Official Language": "Punjabi"
+    }
+  },
+
+  "Rajasthan": {
+    "overview": "A desert state known for forts and royal heritage.",
+    "districts": ["Jaipur", "Jodhpur", "Udaipur"],
+    "tourism": ["Jaipur", "Jaisalmer"],
+    "food": "Dal Baati Churma",
+    "culture": "Folk dances",
+    "festivals": ["Pushkar Fair"],
+    "history": "Rajput kingdoms",
+    "key_stats": {
+      "Capital": "Jaipur",
+      "Population": "~81 million",
+      "Area": "342,239 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Sikkim": {
+    "overview": "A Himalayan state with Buddhist culture.",
+    "districts": ["Gangtok"],
+    "tourism": ["Nathula Pass"],
+    "food": "Momos",
+    "culture": "Buddhist traditions",
+    "festivals": ["Losar"],
+    "history": "Former kingdom",
+    "key_stats": {
+      "Capital": "Gangtok",
+      "Population": "~0.7 million",
+      "Area": "7,096 km²",
+      "Official Language": "English"
+    }
+  },
+
+  "Tamil Nadu": {
+    "overview": "A southern state with ancient Dravidian culture.",
+    "districts": ["Chennai", "Madurai", "Coimbatore"],
+    "tourism": ["Meenakshi Temple", "Ooty"],
+    "food": "Idli, dosa",
+    "culture": "Bharatanatyam",
+    "festivals": ["Pongal"],
+    "history": "Chola, Pandya dynasties",
+    "key_stats": {
+      "Capital": "Chennai",
+      "Population": "~72 million",
+      "Area": "130,058 km²",
+      "Official Language": "Tamil"
+    }
+  },
+
+  "Telangana": {
+    "overview": "A southern state known for heritage and IT growth.",
+    "districts": ["Hyderabad", "Warangal"],
+    "tourism": ["Charminar"],
+    "food": "Hyderabadi Biryani",
+    "culture": "Deccan traditions",
+    "festivals": ["Bathukamma"],
+    "history": "Kakatiya dynasty",
+    "key_stats": {
+      "Capital": "Hyderabad",
+      "Population": "~39 million",
+      "Area": "112,077 km²",
+      "Official Language": "Telugu"
+    }
+  },
+
+  "Tripura": {
+    "overview": "A northeastern state with royal heritage.",
+    "districts": ["Agartala"],
+    "tourism": ["Ujjayanta Palace"],
+    "food": "Rice, fish",
+    "culture": "Tribal culture",
+    "festivals": ["Kharchi Puja"],
+    "history": "Manikya dynasty",
+    "key_stats": {
+      "Capital": "Agartala",
+      "Population": "~4 million",
+      "Area": "10,486 km²",
+      "Official Language": "Bengali"
+    }
+  },
+
+  "Uttar Pradesh": {
+    "overview": "India’s most populous state with rich history.",
+    "districts": ["Lucknow", "Agra", "Varanasi"],
+    "tourism": ["Taj Mahal", "Varanasi Ghats"],
+    "food": "Awadhi cuisine",
+    "culture": "Classical music",
+    "festivals": ["Kumbh Mela"],
+    "history": "Mughal and British rule",
+    "key_stats": {
+      "Capital": "Lucknow",
+      "Population": "~240 million",
+      "Area": "240,928 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "Uttarakhand": {
+    "overview": "The land of gods with Himalayan temples.",
+    "districts": ["Dehradun", "Haridwar"],
+    "tourism": ["Rishikesh", "Nainital"],
+    "food": "Kafuli",
+    "culture": "Pilgrimage traditions",
+    "festivals": ["Kumbh Mela"],
+    "history": "Ancient Garhwal region",
+    "key_stats": {
+      "Capital": "Dehradun",
+      "Population": "~11 million",
+      "Area": "53,483 km²",
+      "Official Language": "Hindi"
+    }
+  },
+
+  "West Bengal": {
+    "overview": "An eastern state known for culture and literature.",
+    "districts": ["Kolkata", "Darjeeling"],
+    "tourism": ["Sundarbans", "Darjeeling"],
+    "food": "Fish curry, sweets",
+    "culture": "Rabindra Sangeet",
+    "festivals": ["Durga Puja"],
+    "history": "British colonial capital",
+    "key_stats": {
+      "Capital": "Kolkata",
+      "Population": "~91 million",
+      "Area": "88,752 km²",
+      "Official Language": "Bengali"
+    }
+  }
+}
