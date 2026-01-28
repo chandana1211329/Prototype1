@@ -77,10 +77,27 @@ const HeroSection = () => {
             </Link>
           </div>
 
+          {/* Mobile Auth Buttons */}
+          <div 
+            className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8 opacity-0 animate-fade-in md:hidden"
+            style={{ animationDelay: '0.8s' }}
+          >
+            <Link to="/login">
+              <Button variant="outline" size="lg" className="w-full sm:w-auto">
+                Login
+              </Button>
+            </Link>
+            <Link to="/register">
+              <Button variant="secondary" size="lg" className="w-full sm:w-auto">
+                Register
+              </Button>
+            </Link>
+          </div>
+
           {/* Stats */}
           <div 
             className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 opacity-0 animate-fade-in-up"
-            style={{ animationDelay: '0.8s' }}
+            style={{ animationDelay: '1.0s' }}
           >
             {[
               { value: '29+', label: 'States' },
