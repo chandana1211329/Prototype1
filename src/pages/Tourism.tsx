@@ -203,16 +203,6 @@ const tourismCategories: TourismCategory[] = [
         difficulty: 'Moderate'
       },
       {
-        name: 'Manali',
-        location: 'Himachal Pradesh',
-        era: 'Mountain Resort',
-        description: 'Paradise for skiing, trekking, and mountain sports',
-        image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop',
-        rating: 4.7,
-        bestTime: 'Apr - Jun, Sep - Dec',
-        difficulty: 'Moderate to Hard'
-      },
-      {
         name: 'Andaman Islands',
         location: 'Bay of Bengal',
         era: 'Island Paradise',
