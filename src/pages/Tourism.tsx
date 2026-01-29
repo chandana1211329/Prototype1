@@ -163,7 +163,7 @@ const tourismCategories: TourismCategory[] = [
         location: 'Amritsar, Punjab',
         era: 'Sikh Heritage (16th century)',
         description: 'Holiest Gurdwara and spiritual center for Sikhs worldwide',
-        image: 'https://images.unsplash.com/photo-1581263251443-6468cbe8d825?w=400&h=300&fit=crop',
+        image: '',
         rating: 4.9,
         bestTime: 'Oct - Mar'
       },
@@ -295,7 +295,7 @@ const tourismCategories: TourismCategory[] = [
         location: 'Kerala',
         era: 'Wellness Tourism',
         description: 'Ayurvedic treatments and houseboat experiences',
-        image: 'https://images.unsplash.com/photo-1604537466158-719b1975feb5?w=400&h=300&fit=crop',
+        image: '',
         rating: 4.7,
         bestTime: 'Sep - May'
       },
