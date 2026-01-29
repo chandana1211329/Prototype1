@@ -1,3 +1,4 @@
+# Configuration for Netlify deployment
 [build]
   publish = "dist"
   command = "npm run build"
